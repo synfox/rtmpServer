@@ -1,0 +1,13 @@
+{
+  "name": "ServerSide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Asjad Amin",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongojs": "^2.6.0",
+    "nodemon": "^1.18.10"
+  }
+}
